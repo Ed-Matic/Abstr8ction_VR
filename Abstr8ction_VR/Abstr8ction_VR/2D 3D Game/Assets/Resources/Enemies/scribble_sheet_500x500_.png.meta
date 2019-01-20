@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 82e9974bb7a62984ca1aa4b3641d54be
+timeCreated: 1446164981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scribble_sheet_500x500__0
+    21300002: scribble_sheet_500x500__1
+    21300004: scribble_sheet_500x500__2
+    21300006: scribble_sheet_500x500__3
+    21300008: scribble_sheet_500x500__4
+    21300010: scribble_sheet_500x500__5
+    21300012: scribble_sheet_500x500__6
+    21300014: scribble_sheet_500x500__7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: scribble_sheet_500x500__0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 163
+        width: 205
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 157
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 146
+        width: 226
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__3
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 146
+        width: 180
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__4
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 163
+        width: 194
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__5
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 11
+        width: 457
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__6
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 21
+        width: 461
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scribble_sheet_500x500__7
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 77
+        width: 338
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

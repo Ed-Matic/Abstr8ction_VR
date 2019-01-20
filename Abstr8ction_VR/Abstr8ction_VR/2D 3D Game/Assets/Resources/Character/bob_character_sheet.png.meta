@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: fc2fc89076389144ea1f375c422efb5a
+timeCreated: 1446174310
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bob_character_sheet_32x32_0
+    21300002: bob_character_sheet_32x32_1
+    21300004: bob_character_sheet_32x32_2
+    21300006: bob_character_sheet_32x32_3
+    21300008: bob_character_sheet_32x32_4
+    21300010: bob_character_sheet_32x32_5
+    21300012: bob_character_sheet_32x32_6
+    21300014: bob_character_sheet_32x32_7
+    21300016: bob_character_sheet_32x32_8
+    21300018: bob_character_sheet_32x32_9
+    21300020: bob_character_sheet_32x32_10
+    21300022: bob_character_sheet_32x32_11
+    21300024: bob_character_sheet_32x32_12
+    21300026: bob_character_sheet_32x32_13
+    21300028: bob_character_sheet_32x32_14
+    21300030: bob_character_sheet_32x32_15
+    21300032: bob_character_sheet_0
+    21300034: bob_character_sheet_1
+    21300036: bob_character_sheet_2
+    21300038: bob_character_sheet_3
+    21300040: bob_character_sheet_4
+    21300042: bob_character_sheet_5
+    21300044: bob_character_sheet_6
+    21300046: bob_character_sheet_7
+    21300048: bob_character_sheet_8
+    21300050: bob_character_sheet_9
+    21300052: bob_character_sheet_10
+    21300054: bob_character_sheet_11
+    21300056: bob_character_sheet_12
+    21300058: bob_character_sheet_13
+    21300060: bob_character_sheet_14
+    21300062: bob_character_sheet_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bob_character_sheet_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 895
+        width: 59
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 899
+        width: 53
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 899
+        width: 53
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 898
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 896
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 896
+        width: 54
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 901
+        width: 52
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 895
+        width: 51
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 771
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 767
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 768
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 767
+        width: 51
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 770
+        width: 40
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 767
+        width: 49
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 768
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 767
+        width: 51
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 514
+        width: 53
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 644
+        width: 42
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 640
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 642
+        width: 70
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 641
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 641
+        width: 39
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 641
+        width: 48
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 640
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 640
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 511
+        width: 48
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 514
+        width: 45
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 518
+        width: 46
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 513
+        width: 49
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 514
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 517
+        width: 45
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bob_character_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 513
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
